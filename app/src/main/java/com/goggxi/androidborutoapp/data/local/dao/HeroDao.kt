@@ -1,4 +1,4 @@
-package com.goggxi.androidborutoapp.data.local
+package com.goggxi.androidborutoapp.data.local.dao
 
 import androidx.paging.PagingSource
 import androidx.room.Dao
