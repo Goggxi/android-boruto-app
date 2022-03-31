@@ -1,6 +1,9 @@
 package com.goggxi.androidborutoapp.utils
 
 object Constant {
+
+    const val BASE_API = "http://10.153.54.164"
+
     const val DETAILS_ARGUMENT_KEY = "heroId"
     const val HERO_DATABASE_TABLE = "hero_table"
     const val BORUTO_DATABASE = "boruto_database"
